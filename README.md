@@ -1,5 +1,6 @@
 # Communication Toolkit
 
+<<<<<<< HEAD
 A comprehensive toolkit for improving communication, decision-making, and team collaboration.
 
 ## Features
@@ -123,14 +124,77 @@ The application uses React's Context API for state management. Key stores includ
 
 1. Fork the repository
 2. Create a feature branch
+=======
+A comprehensive communication toolkit built with React and React Native Web, providing tools for message clarity, decision navigation, and conflict resolution.
+
+## Features
+
+- Message Clarity Matrix
+- Decision Navigation System
+- Conflict Resolution Roadmap
+- Cross-platform (Web & Mobile)
+- Offline Support
+- Dark Mode
+- Responsive Design
+
+## Tech Stack
+
+- React 18
+- TypeScript
+- Vite
+- Tailwind CSS
+- Zustand
+- React Native Web
+- PWA Support
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Development
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build
+- `npm run test` - Run tests
+
+## Project Structure
+
+```
+src/
+  ├── components/     # Reusable components
+  ├── store/         # Zustand store
+  ├── types/         # TypeScript types
+  ├── utils/         # Utility functions
+  ├── App.tsx        # Main App component
+  └── main.tsx       # Entry point
+```
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch
+>>>>>>> 0deacd3014588f4d45a5b092b7bd91d417abaf72
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Support
 
 For support, please open an issue in the GitHub repository or contact the maintainers. 
+=======
+MIT # Communication-toolkit
+>>>>>>> 0deacd3014588f4d45a5b092b7bd91d417abaf72
